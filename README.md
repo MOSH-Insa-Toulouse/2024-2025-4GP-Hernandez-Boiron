@@ -2,4 +2,6 @@
 
 # Ma to do list
 - [X] créer le dépôt
-- [ ] modifier le fichier 'README.md'
+- [X] modifier le fichier 'README.md'
+
+- [ ] oui
