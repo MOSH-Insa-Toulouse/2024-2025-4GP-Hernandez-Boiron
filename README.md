@@ -4,4 +4,4 @@
 - [X] créer le dépôt
 - [X] modifier le fichier 'README.md'
 
-- [ ] oui
+- [ ] non
